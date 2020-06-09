@@ -36,7 +36,7 @@
 	<title>My cool gardening app</title>
 </svelte:head>
 
-<h1 class="bg-blue-100">I like developpiung with this so much.</h1>
+<h1 class="bg-blue-500">I like starting a new project.</h1>
 
 <figure>
 	<img alt='Coll gardening' src='garden.jpg'>
